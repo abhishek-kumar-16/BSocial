@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #644c7b; }
+  body #layout-main {
+    height: 100%; }
